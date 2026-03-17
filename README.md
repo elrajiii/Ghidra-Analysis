@@ -1,5 +1,14 @@
 # 🐉 Software Reverse Engineering: An Introduction to Ghidra
+---
 
+## 📑 Table of Contents
+1. [About the Tool: Ghidra](#-about-the-tool-ghidra)
+2. [Practical Case: Static Malware Analysis](#-practical-case-static-malware-analysis)
+3. [Phase 1: Anti-Debugging Techniques](#-phase-1-identification-of-anti-analysis-techniques-anti-debugging)
+4. [Phase 2: String Obfuscation (Stack Strings)](#-phase-2-string-obfuscation-analysis-stack-strings)
+5. [Conclusion](#-conclusion)
+
+---
 ## 🛠️ About the Tool: Ghidra
 **Ghidra** is a powerful, open-source Software Reverse Engineering (SRE) framework developed and maintained by the National Security Agency (NSA). Released to the public in 2019, it has become an industry standard for cybersecurity professionals, malware analysts, and vulnerability researchers.
 
