@@ -1,4 +1,6 @@
 # 🐉 Software Reverse Engineering: An Introduction to Ghidra
+> Detailed static analysis of a binary executable to identify anti-debugging techniques and de-obfuscate stack strings.
+
 ---
 
 ## 📑 Table of Contents
